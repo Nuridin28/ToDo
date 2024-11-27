@@ -1,0 +1,14 @@
+.todo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 1em;
+}
+.checkbox {
+    height: 20px;
+    width:20px;
+    border-radius: 100px;
+}
+.todos-list {
+    margin-top: 24px;
+}

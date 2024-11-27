@@ -1,0 +1,12 @@
+.horizontal-div {
+    height: 2px;
+    background-color: #151517;
+    margin-top: 24px;
+}
+.todos {
+    margin-top: 64px;
+}
+.todo-title {
+    font-weight: 700;
+    font-size: 24px;
+}
