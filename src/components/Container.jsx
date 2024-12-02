@@ -1,6 +1,5 @@
 import React from 'react'
-import '../index.css'
-
+import '../App.css'
 export default function Container({children}) {
   return (
     <div className='container'>

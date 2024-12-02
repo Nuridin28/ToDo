@@ -1,0 +1,12 @@
+.pager__add-section {
+    display: flex;
+    position: relative;
+}
+.pager__add-btn {
+    border: 0;
+    background-color: transparent;
+    cursor: pointer;
+}
+.pager__add-btn:hover {
+    transform: scale(1.1);
+}

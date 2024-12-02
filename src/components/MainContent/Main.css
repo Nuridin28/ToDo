@@ -1,0 +1,16 @@
+.main {
+    margin-top: 64px;
+}
+
+.main__title {
+    font-weight: 700;
+    font-size: 1.5em;
+    line-height: 28px;
+}
+
+.divider {
+    margin-top: 24px;
+    height: 2px;
+    background-color: #151517;
+    opacity: 20%;
+}

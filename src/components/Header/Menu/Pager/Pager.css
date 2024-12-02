@@ -1,0 +1,20 @@
+.pager{
+    display: flex;
+    gap:16px;
+    align-items:center;
+}
+.pager__btn {
+    font-size: 0.875em;
+    font-weight: 500;
+    border: 0;
+    background-color: #F0F0F0;
+    padding: 10px 24px;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.active-btn {
+    color:white;
+    background-color: #081E346B;
+    font-weight: 700;
+}

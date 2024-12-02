@@ -1,28 +1,14 @@
-.pager-btn {
-    border : 0;
-    background-color: #F0F0F0;
-    padding: 8px 24px;
-    border-radius:100px;
-    text-align: center;
-    font-weight: 500;
-    font-size: 1em;
-}
-.active-btn {
-    background-color: #081E346B;
-    color:white;
-}
-.pager {
-    display: flex;
-    gap:16px;
-}
-.btns {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+.header {
     margin-top: 100px;
-    position: relative;
 }
-.add-btn {
-    border:0;
-    background-color: transparent;
+.title__title {
+    font-size: 2.125em;
+    font-weight: 700;
+    line-height: 38px;
+}
+.title__sub-title {
+    font-size: 1em;
+    font-weight: 500;
+    line-height: 22px;
+    margin-top: 24px;
 }

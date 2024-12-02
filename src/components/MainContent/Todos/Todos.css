@@ -1,0 +1,21 @@
+.todo {
+    display: flex;
+    margin-top: 16px;
+    gap: 8px;
+    align-items: center;
+    font-size: 1em;
+    font-weight: 500;
+    position: relative;
+}
+.todo:hover {
+    background-color: #E4E6E7;
+}
+.todo input {
+    width: 16px;
+    height: 16px;
+    accent-color: #712FFF;
+}
+.todos {
+    margin-block: 0;
+    padding: 0;
+}

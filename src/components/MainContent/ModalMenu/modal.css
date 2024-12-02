@@ -1,0 +1,22 @@
+.edit {
+    display: flex;
+    align-items:center;
+    font-size: 0.875em;
+    font-weight: 500;
+    gap: 12px;
+    cursor: pointer;
+}
+.edit:hover {
+    background-color: #081E3433;
+}
+.main__menu {
+    padding: 12px 4px;
+    background-color: #E4E6E7;
+    border-radius: 12px;
+    position: absolute;
+    top: 150%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 9;
+}
